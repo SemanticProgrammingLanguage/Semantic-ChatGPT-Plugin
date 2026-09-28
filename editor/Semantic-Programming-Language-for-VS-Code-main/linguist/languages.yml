@@ -1,0 +1,11 @@
+# Proposed GitHub Linguist entry.
+# Omit language_id until `script/update-ids` is run in github-linguist/linguist.
+Semantic:
+  type: programming
+  color: "#FE8E28"
+  aliases:
+  - semantic-programming-language
+  extensions:
+  - ".se"
+  tm_scope: source.semantic
+  ace_mode: text
