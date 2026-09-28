@@ -1,4 +1,4 @@
-# Semantic FULL 0.6.0
+# Semantic ChatGPT Plugin
 
 A full-size Semantic knowledge plugin designed to let ChatGPT **read, understand, learn and write Semantic directly**.
 
