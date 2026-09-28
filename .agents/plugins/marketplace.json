@@ -1,0 +1,21 @@
+{
+  "name": "semantic-programming-language",
+  "interface": {
+    "displayName": "Semantic Programming Language"
+  },
+  "plugins": [
+    {
+      "name": "semantic-test",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SemanticProgrammingLanguage/Semantic-ChatGPT-Plugin.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
